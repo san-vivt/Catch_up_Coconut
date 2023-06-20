@@ -4,7 +4,7 @@ _This repository shows a test game on python3._
 
 ---
 
-![Image game](https://github.com/san-vivt/Catch_up_Coconut/raw/master/src/Coconut_2.png)
+![Image game](https://github.com/san-vivt/Catch_up_Coconut/raw/master/source/Coconut_2.png)
 
 # Installation
 
@@ -21,8 +21,8 @@ pip3 install pygame
 
 ### First we make initialisation of git
 
-![Image terminal](https://github.com/san-vivt/Catch_up_Coconut/raw/master/src/Coconut_3.png)
+![Image terminal](https://github.com/san-vivt/Catch_up_Coconut/raw/master/source/Coconut_3.png)
 
 ### Than next steps
 
-![Image game](https://github.com/san-vivt/Catch_up_Coconut/raw/master/src/Coconut_1.png)
+![Image game](https://github.com/san-vivt/Catch_up_Coconut/raw/master/source/Coconut_1.png)
