@@ -12,7 +12,7 @@ _This repository shows a test game on python3._
 We need to clone repo and install lib "pygame"
 
 ```bash
-git clone 
+git clone https://github.com/san-vivt/Catch_up_Coconut.git
 
 pip3 install pygame
 ```
